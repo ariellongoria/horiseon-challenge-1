@@ -3,6 +3,8 @@
 ## Horiseon
 A webpage for a marketing agency.
 
+Refactored the code in the HTML file and the CSS stylesheet for accessibility purposes.
+
 ## Changelog:
 
 * changed webpage title from "website" to "Horiseon - Main"
@@ -18,3 +20,5 @@ A webpage for a marketing agency.
     * one "service" class for all services
 * changed anchor tag rule to be specific to the header
 * removed class from span tag inside the header
+* added alt attributes to images
+* added comments to stylesheet
