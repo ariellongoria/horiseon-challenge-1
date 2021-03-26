@@ -63,6 +63,8 @@ header div ul li a {
 }
 
 /* Services Section */
+
+/* float-left and float-right rules target different images to place them in alternating sides */
 .float-left {
     float: left;
     margin-right: 25px;
