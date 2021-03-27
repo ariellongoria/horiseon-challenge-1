@@ -22,3 +22,4 @@ Refactored the code in the HTML file and the CSS stylesheet for accessibility pu
 * removed class from span tag inside the header
 * added alt attributes to images
 * added comments to stylesheet
+* changed div to nav tag
